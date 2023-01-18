@@ -71,4 +71,49 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
-# skehjfdj
+Kehadiran siswa 17 January 2023
+1. Barita Davitya
+2. Heidi Safina
+3. Hermawan Sentiyaki
+4. La Haqiqi
+5. M. Alfa
+6. M. Izaz
+7. Niswah 
+8. Nuryauma Laila
+9. Putri Dwi
+10. Rahmat Hidayat
+11. Raihan Putra
+12. Rima Oktaviani
+13. Simvorian Ivano
+14. Tsany Aurellia
+
+Sakit :
+1. Ahmad Bayhaqi
+2. M. Jamil
+
+Tidak ada keterangan :
+1. Aditya
+
+Kehadiran siswa 18 January 2023
+1. Aditya
+2. Ahmad Bayhaqi
+3. Barita Davitya
+4. Heidi Safina
+5. Hermawan Sentiyaki
+6. M. Alfa
+7. M. Izaz
+8. Niswah 
+9. Nuryauma Laila
+10. Putri Dwi
+11. Rahmat Hidayat
+12. Raihan Putra
+13. Rima Oktaviani
+14. Simvorian Ivano
+15. Tsany Aurellia
+
+
+Izin:
+1. La Haqiqi
+2. M Jamil
+
+
